@@ -1,0 +1,1 @@
+http://localhost:8080/lab/input?a=10&b=5
